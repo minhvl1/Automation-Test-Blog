@@ -4,7 +4,7 @@ date: 2025-08-23
 ---
 
 ### This is my blog site
-<<img width="1386" height="532" alt="image" src="https://github.com/user-attachments/assets/6b64a7fa-c4b1-44dd-973b-2186a7f4e437" />
+<img width="1386" height="532" alt="image" src="https://github.com/user-attachments/assets/6b64a7fa-c4b1-44dd-973b-2186a7f4e437" />
 
 ### How to do that?
 ___all free___
